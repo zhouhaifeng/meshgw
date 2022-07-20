@@ -1,0 +1,1 @@
+cmd_/home/zhf/src/network/dpdk/x86_64-native-linux-gcc/build/kernel/linux/igb_uio/built-in.a := rm -f /home/zhf/src/network/dpdk/x86_64-native-linux-gcc/build/kernel/linux/igb_uio/built-in.a; ar cDPrST /home/zhf/src/network/dpdk/x86_64-native-linux-gcc/build/kernel/linux/igb_uio/built-in.a 

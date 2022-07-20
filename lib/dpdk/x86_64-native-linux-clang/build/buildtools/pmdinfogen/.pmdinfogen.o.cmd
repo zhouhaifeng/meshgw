@@ -1,0 +1,1 @@
+cmd_pmdinfogen.o = clang -Wp,-MD,./.pmdinfogen.o.d.tmp   -g -I/home/zhf/src/network/meshgw/lib/dpdk/x86_64-native-linux-clang/include    -o pmdinfogen.o -c /home/zhf/src/network/meshgw/lib/dpdk/buildtools/pmdinfogen/pmdinfogen.c 
